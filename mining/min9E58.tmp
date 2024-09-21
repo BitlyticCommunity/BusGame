@@ -439,9 +439,8 @@ position = Vector2(-0.5, -2)
 shape = SubResource("RectangleShape2D_78lne")
 
 [node name="Sprite" type="Sprite2D" parent="Player"]
-position = Vector2(0, 4)
+position = Vector2(0, -4)
 texture = ExtResource("2_2635g")
-offset = Vector2(0, -8)
 region_rect = Rect2(16.1, 192.1, 16, 16)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
