@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="Ore" load_steps=2 format=3 uid="uid://ce0ngrl1qhe1c"]
+
+[ext_resource type="Script" path="res://mining/scripts/data/ore_material.gd" id="1_l1lf0"]
+
+[resource]
+script = ExtResource("1_l1lf0")
+ore_name = "Pink"
